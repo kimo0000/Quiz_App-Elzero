@@ -1,0 +1,83 @@
+[
+    {
+        "title" : "what we <br> tag function ?",
+        "answer_1" : "create element",
+        "answer_2" : "create tag name",
+        "answer_3" : "color element",
+        "answer_4" : "create interline",
+        "right_answer" : "create interline"
+
+    },
+    {
+        "title" : "what tag img utilise source ?",
+        "answer_1" : "a",
+        "answer_2" : "href",
+        "answer_3" : "alt",
+        "answer_4" : "src",
+        "right_answer" : "src"
+
+    },
+    {
+        "title" : "what we tag <h1> tag function ?",
+        "answer_1" : "font size",
+        "answer_2" : "font weght",
+        "answer_3" : "color",
+        "answer_4" : "px of title",
+        "right_answer" : "px of title"
+
+    },
+    {
+        "title" : "what we the tag <a> function ?",
+        "answer_1" : "link",
+        "answer_2" : "break line",
+        "answer_3" : "inderline",
+        "answer_4" : "font size text",
+        "right_answer" : "link"
+
+    },
+    {
+        "title" : "what the div tag function ?",
+        "answer_1" : "new tag",
+        "answer_2" : "self tag",
+        "answer_3" : "block tag",
+        "answer_4" : "create tag",
+        "right_answer" : "block tag"
+
+    },
+    {
+        "title" : "what the element inside tag select ?",
+        "answer_1" : "option",
+        "answer_2" : "div",
+        "answer_3" : "article",
+        "answer_4" : "aside",
+        "right_answer" : "option"
+
+    },
+    {
+        "title" : "what we inline element ?",
+        "answer_1" : "section",
+        "answer_2" : "h1",
+        "answer_3" : "section",
+        "answer_4" : "span",
+        "right_answer" : "span"
+
+    },
+    {
+        "title" : "what the input tag type ?",
+        "answer_1" : "color text",
+        "answer_2" : "cursor",
+        "answer_3" : "paragraphe",
+        "answer_4" : "text",
+        "right_answer" : "text"
+
+    },
+    {
+        "title" : "what we do tag footer order in html ?",
+        "answer_1" : "the first",
+        "answer_2" : "the second",
+        "answer_3" : "the middle",
+        "answer_4" : "the later",
+        "right_answer" : "the later"
+
+    }
+]
